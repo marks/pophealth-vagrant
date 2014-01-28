@@ -19,3 +19,7 @@ This vagrant file with chef cookbooks will setup pophealth for development in a 
 ## Caveats
 
 This has been only tested on the Mac OS platform. If you try it on a different platform please let me know of any issues and successes so i can update this readme. 
+
+## Props
+
+Hat tip to [ringful](https://github.com/ringful/pophealth-chef) for https://github.com/ringful/pophealth-chef and detailed instructions on [pophealth wiki](https://github.com/pophealth/popHealth/wiki/Installation-v2.1)
