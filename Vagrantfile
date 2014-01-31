@@ -1,11 +1,9 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-# Vagrant.require_plugin 'vagrant-berkshelf'
 Vagrant.configure("2") do |config|
   # All Vagrant configuration is done here. The most common configuration
   # options are documented and commented below. For a complete reference,
   # please see the online documentation at vagrantup.com.
-  config.berkshelf.enabled = false
   config.vm.hostname = "pophealthinstance"
 
   # Every Vagrant virtual environment requires a box to build off of.
